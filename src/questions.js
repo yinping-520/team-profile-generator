@@ -25,6 +25,7 @@ const questions = [
   },
 ];
 
+
 const renderInternData = (name, id, email, university) => {
     return `<div class="col mb-4">
     <div class="card w-40 m-2 text-white bg-info" style="width: 18rem;">
