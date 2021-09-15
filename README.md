@@ -22,10 +22,11 @@ THEN the manager exit the application, and the HTML is generated
 ```
 
 ## html
-[link to team.html](https://raw.githubusercontent.com/yinping-520/team-profile-generator/main/src/team.html)
+[link to team.html](https://raw.githubusercontent.com/yinping-520/team-profile-generator/main/team.html)
 
 ## Demo videos
 [pass test walkthrough video](https://drive.google.com/file/d/1dV5ZVphh3qzsepnhHMhuu8Q3FiiC61K-/view)
+
 [application walkthrough video](https://drive.google.com/file/d/1ONs8aCEKVuytFaUAOXsSXlspkCclwmPF/view)
 
 ## Github Ropo
