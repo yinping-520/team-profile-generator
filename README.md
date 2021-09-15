@@ -21,7 +21,7 @@ WHEN the manager decide to finish building my team
 THEN the manager exit the application, and the HTML is generated
 ```
 
-## html
+## Generated Html
 [link to team.html](https://raw.githubusercontent.com/yinping-520/team-profile-generator/main/team.html)
 
 ## Demo videos
@@ -29,5 +29,5 @@ THEN the manager exit the application, and the HTML is generated
 
 [application walkthrough video](https://drive.google.com/file/d/1ONs8aCEKVuytFaUAOXsSXlspkCclwmPF/view)
 
-## Github Ropo
+## Github Repo
 [Github ropository](https://github.com/yinping-520/team-profile-generator)
